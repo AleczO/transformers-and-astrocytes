@@ -5,6 +5,4 @@ A collection of my work exploring transformer architectures and their connection
 
 ## Current Progress
 
-For now, I'm mainly experimenting with the basic idea of the Transformer. The Standard Transformer section provides a closer look into Transformer mechanisms from a language semantics perspective. I'm not really into language models, but the mechanisms behind basic linguistic reasoning provide better intuition. 
-
-A deeper mathematical exploration of the Transformer model can be found in my [science notes](https://github.com/AleczO/science-notes/blob/main/Deep%20Learning/Transformer/calculations.ipynb) repository.
+For now, I'm mainly experimenting with the basic idea of the Transformer. A deeper mathematical exploration of the model can be found in my [science notes](https://github.com/AleczO/science-notes/blob/main/Deep%20Learning/Transformer/calculations.ipynb) repository.
